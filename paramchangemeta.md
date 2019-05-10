@@ -138,7 +138,7 @@ a) `staking.MaxValidators` should be `100*(1.13)^y` with `13%` error margin, whe
 the number of years passed from the genesis block to the point of time where the proposal
 entered the voting period, rounded off.
 
-### S조항
+### S-Articles
 
 S1. `staking.MaxValidators`
 
